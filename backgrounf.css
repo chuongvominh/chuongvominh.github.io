@@ -1,0 +1,47 @@
+h1 {
+  font-family: Arial, Calibry, sans-serif;
+  margin-bottom: 50px;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 20px;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(190,13,228,1) 45%, rgba(0,212,255,1) 100%);
+}
+
+input, label, select {
+  text-align: center;
+  width: 80px;	
+  font-size: 28px;
+}
+
+#input {
+  font-size: 28px;
+}
+
+button {
+  width: 25%;
+  margin: 30px auto;
+  padding: 10px 15px;
+  background-color: red;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+#S1,#S2 {
+  display: none;
+}
+#background {
+  margin-left: 200px;
+  margin-top: 75px;
+  max-width: 900px;
+  background: #fff;
+  width: 1600px;
+  padding: 25px 40px 10px 40px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  height: 75vh;
+  border-radius: 25px;
+  border: 2px solid #e40d0d;
+}
